@@ -52,7 +52,7 @@
 		</dependency>
 		<dependency>
 			<groupId>commons-io</groupId>
-                        <artifactId>commons-io</artifactId>
+                        <artifactId>com.springsource.org.apache.commons-io</artifactId>
                         <version>${commons.io.version}</version>
 		</dependency>
 		<dependency>
